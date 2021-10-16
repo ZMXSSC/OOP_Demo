@@ -125,9 +125,6 @@ void CSE::study() {
 
 
 int main() {
-//    Department e1 = Department("Sunny", "Department", 23);
-//    e1.canIDrink();
-
 //    ECE e = ECE("Sunny", "Warren", 23, "Machine Learning and Controls");
 //    CSE c = CSE("Jack", "ERC", 18, "PHP");
     
@@ -137,7 +134,6 @@ int main() {
 //    c.canIDrink();
 //    e.study();
 //    c.study();
-
 /*
  * The most common use of polymorphism is when a
  * parent class reference is used to refer to a child class object
